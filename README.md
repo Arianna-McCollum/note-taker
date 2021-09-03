@@ -16,11 +16,11 @@
   - [Tests](#tests)
 
   ## Installation
-  NPM
-  Express
-  Cors
-  Inquirer
-  Uuid
+ - NPM
+ - Express
+ - Cors
+ - Inquirer
+ - Uuid
 
   ## License
   ![badge](https://img.shields.io/badge/license-MIT-blue)<br>
